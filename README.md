@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NinaPatrina
-- 👀 I’m interested in game dev
+- 👀 I’m learning to code
 - 🌱 I’m currently learning: Android Game Development for mobile devices
 
 
