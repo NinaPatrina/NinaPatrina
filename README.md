@@ -6,6 +6,8 @@ At Amazon, I was in charge of optimizing operational expenses and developing new
 
 At Ada Academy, I honed my skills in React, writing multi-page task management platforms with interactive and user-friendly features. 💻💡
 
+At UniCredit Bank, I worked with the IT department to improve software used in my daily job as part of the Custody Department. 💻🔧
+
 I have a passion for technology and a strong drive to continue learning and growing in my career. 🚀
 
 Let's connect and see where we can take our careers together! 😁
